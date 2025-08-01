@@ -1,0 +1,20 @@
+{
+  "name": "unique-name-generator",
+  "version": "1.0.0",
+  "description": "Generate random/unique names like prefix_123 with extensions like .txt, .json, etc.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SuhanaZ/random-name-generator.git"
+  },
+  "keywords": ["random", "name", "filename", "generator", "nodejs"],
+  "author": "suahanZ",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SuhanaZ/random-name-generator/issues"
+  },
+  "homepage": "https://github.com/SuhanaZ/random-name-generator#readme"
+}
